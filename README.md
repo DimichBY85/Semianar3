@@ -1,1 +1,1 @@
-# Semianar3
+# Seminar3
